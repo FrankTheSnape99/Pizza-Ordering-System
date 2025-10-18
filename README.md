@@ -1,9 +1,9 @@
-## Assignment – Programming Fundamentals
+## PizzaOrderingSystem - Programming
 
 ---
 
 ### 📌 Overview
-This was a first-year university assignment for the **CO1409 – Programming** module.  
+This was a first-year university assignment for my Programming module.  
 The project is a **pizza ordering system** created using **C++**. It allows users to order multiple pizzas, add toppings/extras, manage their account balance, and process orders with automatic cost calculation.
 
 **Key features include:**
